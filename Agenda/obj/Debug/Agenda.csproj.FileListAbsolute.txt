@@ -1,0 +1,27 @@
+C:\csharp\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\csharp\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\csharp\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.frmMenu.resources
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.frmInserirEditar.resources
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.frmTexto.resources
+C:\csharp\Agenda\Agenda\obj\Debug\Agenda.frmResultados.resources
+F:\VIDEOS\01_c#_nap\csharp\Agenda\Agenda\bin\Debug\Agenda.exe.config
+F:\VIDEOS\01_c#_nap\csharp\Agenda\Agenda\obj\Debug\Agenda.exe
+F:\VIDEOS\01_c#_nap\csharp\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.frmInserirEditar.resources
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.frmMenu.resources
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.frmResultados.resources
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.frmTexto.resources
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\alvaro.rodrigues\Downloads\Agenda C#\Agenda\Agenda\obj\Debug\Agenda.pdb
